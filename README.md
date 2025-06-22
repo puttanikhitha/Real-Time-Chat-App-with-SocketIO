@@ -158,4 +158,7 @@ Group chat creation
 
 Dark mode UI
 # output
+
 login page
+
+![Image](https://github.com/user-attachments/assets/d88462a0-680f-47a9-814d-fa2ee9441436)
