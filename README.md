@@ -1,4 +1,4 @@
-# Real-Time Chat App with Socket.IO
+![image](https://github.com/user-attachments/assets/fb412a69-aec6-4f52-82d3-802165881fde)# Real-Time Chat App with Socket.IO
 
 A full-stack real-time chat application enabling instant messaging through public rooms and private chats. Built with **Node.js**, **Express**, **MongoDB**, **Socket.IO**, and a **React + Tailwind CSS** frontend.
 
@@ -157,8 +157,24 @@ Emojis and reactions
 Group chat creation
 
 Dark mode UI
-# output
+# 🎯 Output Preview
 
-login page
+Here’s a look at the real-time chat app in action:
 
-![Image](https://github.com/user-attachments/assets/d88462a0-680f-47a9-814d-fa2ee9441436)
+**🔐 User Login Page**
+
+Users must log in to access chat features. Secure authentication is handled using JWT.
+
+
+
+**💬 Chat Room with Join Notifications**
+
+Once logged in, users can join public chat rooms. Join messages are displayed in real time, and users can start sending messages instantly.
+
+
+
+**👥 Real-Time Conversation View**
+
+Shows real-time messaging between users, typing indicators, and online user tracking. The right side displays the list of online users in the chat room.
+
+
